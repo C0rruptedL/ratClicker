@@ -72,13 +72,13 @@ class Rat {
 
 data.rats = {};
 
-data.rats.thiccRat = new Rat().cost("10").costPercent(1.05).money("1").moneyPercent(1.01).text("One Thic Ratt | ");
+data.rats.loanRat = new Rat().cost("1").costPercent(1.5).money("1").moneyPercent(1.1).text("Dead Rat | ");
+data.rats.thiccRat = new Rat().cost("10").costPercent(1.05).money("1").moneyPercent(1.01).text("Thicc Ratt | ");
 data.rats.hazmatRat = new Rat().cost("10000").costPercent(1.05).money("5000").moneyPercent(1.01).text("Hazmat Rat | ");
-data.rats.cdcRat = new Rat().cost("1000000").costPercent(1.05).money("500000").moneyPercent(1.01).text("CDC Rat | ");
-data.rats.stripperRat = new Rat().cost("999999999999").costPercent(1.05).money("499999999999.5").moneyPercent(1.01).text("Stripper Rat | ");
-data.rats.obamaRat = new Rat().cost("57000").costPercent(1.05).money("28500").moneyPercent(1.01).text("President Barat | ");
+data.rats.cdcRat = new Rat().cost("1000000").costPercent(1.05).money("500000").moneyPercent(1.01).text("Delrao Rat | ");
+data.rats.obamaRat = new Rat().cost("57000").costPercent(1.05).money("28500").moneyPercent(1.01).text("Kim Jung rat | ");
 data.rats.ratrump = new Rat().cost("57000").costPercent(1.05).money("28500").moneyPercent(1.01).text("President Ratrump | ");
-data.rats.loanRat = new Rat().cost("1").costPercent(1.5).money("1").moneyPercent(1.1).text("son of a million rats Rat | ");
+data.rats.stripperRat = new Rat().cost("999999999999").costPercent(1.05).money("499999999999.5").moneyPercent(1.01).text("NoPls Rat | ");
 data.rats.gambinoRat = new Rat().cost("999999999999999").costPercent(1.05).money("499999999999999.5").moneyPercent(1.01).text("Gambino Rat | ");
 
 data.rats.thiccRat.story("He thicc");
