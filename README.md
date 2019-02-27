@@ -1,3 +1,3 @@
-# Rat Clicker
-The best rat clicker money can buy.
-This is simply the greatest Rat Clicker, extremely modern and well planned.
+# E clicker
+The better rat clicker
+This is simply the best Rat Clicker, extremely modern and well planned.
